@@ -1,5 +1,0 @@
-{
-  "name": "tb2-evidence-tree-intake",
-  "private": true,
-  "dependencies": { "@netlify/blobs": "^8.1.0" }
-}
